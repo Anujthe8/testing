@@ -1,17 +1,16 @@
-[
-  {
-    "id": "12814b80ffe494e8",
-    "key": "Admin",
-    "expiresAt": "2027-12-25"
-  },
-  {
-    "id": "fe841b898286a6a2",
-    "key": "Admin",
-    "expiresAt": "2026-12-26"
-  }, 
-  {
-    "id": "33c352da91483ab6",
-    "key": "Demo",
-    "expiresAt": "2026-07-14"
-  }
+{
+  "showDialog": false,
+  "appVersionCode": 1,
+  "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.",
+  "updateButtonText": "Update",
+  "updateButtonLink": "https://google.com",
+  "updateButtonGradientStartColor": "#1E88E5",
+  "updateButtonGradientEndColor": "#64B5F6",
+  "cancelButtonText": "Cancel",
+  "cancelClosesApp": true,
+  "cancelButtonGradientStartColor": "#1E88E5",
+  "cancelButtonGradientEndColor": "#64B5F6",
+  "textGradientStartColor": "#1E88E5",
+  "textGradientEndColor": "#64B5F6",
+  "dialogBackgroundColor": "#FFFFFF"
 }
